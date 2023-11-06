@@ -6,8 +6,33 @@
 .header{
     width: inherit;
     height: 200px;
+
 }
 
 .navbar{
     width: inherit;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+.content{
+
+}
+
+.contentbig{
+
+}
+
+.margin{
+
+}
+
+.footer{
+
 }
