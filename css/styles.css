@@ -4,32 +4,70 @@
 }
 
 .header{
-    width: inherit;
-    height: 200px;
-
+    width: 1200px;
+    height: 280px;
 }
 
 .navbar{
     width: inherit;
-
+    float: none;
 }
+
 
 ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: grey;
 
 }
+
+li{
+    float: left;
+    border-right: 1px solid white;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+
+li a:hover{
+    background-color: blue;
+}
+
+.active{
+    background-color: green;
+}
+
+.advertise{
+    float: right;
+    background-color: red;
+}
+
 
 .content{
 
 }
 
-.contentbig{
-
+.blocks{
+    width:550px;
+    float:left;
+    margins: 25px;
 }
 
-.margin{
+.block2{
+    width:550px;
+    float: right;
+    margins: 25px;
+
+.contentbig {
+    float: left;
+    width: 1200px;
 
 }
 
