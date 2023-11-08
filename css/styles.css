@@ -54,23 +54,31 @@ li a:hover{
 
 }
 
-.blocks{
+.block1{
     width:550px;
     float:left;
-    margins: 25px;
+    margin: 25px;
 }
 
-.block2{
-    width:550px;
+.block2 {
+    width: 550px;
     float: right;
-    margins: 25px;
+    margin: 25px;
+}
 
 .contentbig {
     float: left;
     width: 1200px;
-
+    margin: 25px;
 }
 
 .footer{
-
+    margin: 25px;
 }
+
+
+
+
+
+
+
